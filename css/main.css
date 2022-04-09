@@ -72,11 +72,11 @@ img {
 }
 
 .site-btn:hover {
-    opacity: 0.8;
+    background: #66D2CF;
 }
 
-.site-btn:active {
-    opacity: 0.4;
+.site-btn:disabled {
+    background: #E2DEDB;
 }
 
 /* HEADER */
