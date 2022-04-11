@@ -120,6 +120,10 @@ img {
     text-decoration: none;
 }
 
+.site-nav-link:hover {
+    color: #333D4B;
+}
+
 /* MAIN */
 
 /* SECTION HERO */
@@ -457,4 +461,8 @@ img {
 
 .footer-app-item + .footer-app-item {
     margin-left: 24px;
+}
+
+.footer-nav-link:hover {
+    color: #FEFCF7;
 }
